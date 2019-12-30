@@ -1,2 +1,2 @@
-# Code-Snippet
-Different Implementation of Algorithms in different Languages
+# Let Us Go
+Different Implementation of Algorithms in Google's Go Languages
