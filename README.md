@@ -1,2 +1,2 @@
 # Let Us Go
-Different Implementation of Algorithms in Google's Go Languages
+Practice Go and Explore different Aspects of the Language
